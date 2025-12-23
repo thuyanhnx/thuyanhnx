@@ -21,7 +21,7 @@ I'm currently in the process of uploading my recent projects into Github. The cu
 - Recommendation Systems for Online Retails
 - Vehicle Crash Frequency and Severity Prediction using statistical model
 
-## 🤝 Connect with Me
+## Connect with Me!
 - **LinkedIn**: [Amelia Nguyen](https://www.linkedin.com/in/nguyenthuyanh01/)
 - **Medium**: [Amelia Nguyen](https://medium.com/@ameliablog)
 - **Email**: [anhthng@umich.edu](mailto:anhthng@umich.edu)
