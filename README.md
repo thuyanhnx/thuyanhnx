@@ -11,13 +11,13 @@ I am a **data scientist** with 3 years of working experience in analytics. I am 
 - Reach me at: [anhthng@umich.edu](mailto:anhthng@umich.edu)
 - My portfolio website: _updating_ 
 
-## Feature Projects
-I'm currently in the process of uploading my recent projects into Github. The current ones on my Github are all more than three years old. The following are some of my upcoming project:
+## Featured Projects
+- **Recommendation Systems for Online Retails**: 
+- Vehicle Crash Frequency and Severity Prediction using statistical model
+The current ones on my Github are all more than three years old. The following are some of my upcoming project:
 
 **Full cycle project:**
 - Food & Drink Map: the anticipated final product is a food and drink map, categorized into Cuisine Types and Specialty
-
-**Projects associated with Master's coursework:**
 - Recommendation Systems for Online Retails
 - Vehicle Crash Frequency and Severity Prediction using statistical model
 
